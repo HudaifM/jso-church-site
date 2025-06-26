@@ -20,5 +20,3 @@ const Header = () => (
 );
 
 export default Header;
-// This is a simple header component for a React website.
-// It includes a title and navigation links to different sections of the page.

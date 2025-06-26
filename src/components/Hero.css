@@ -1,7 +1,7 @@
 .hero-section {
     position: relative;
     block-size: 100vh;
-    background-image: url('/public/Church.jpg'); /* Place image in public/images/ or use an online link */
+    background-image: url('/public/Church.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@
     inset-inline-start: 0;
     inline-size: 100%;
     block-size: 100%;
-    background-color: rgba(0, 0, 0, 0.75); /* 75% black overlay */
+    background-color: rgba(0, 0, 0, 0.75); 
     z-index: 1;
     text-align: center;
     color: white;

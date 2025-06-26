@@ -1,5 +1,5 @@
 import React from "react";
-import "./About.css"; // Assuming you have a CSS file for styling
+import "./About.css"; // CSS file for styling
 
 const About = () => (
   <section className="about-section">
@@ -20,5 +20,3 @@ const About = () => (
 );
 
 export default About;
-// This is a simple about section component for a React website.
-// It includes a title and a brief description about the website or organization.

@@ -8,13 +8,13 @@
     inset-block-start: 0;
     inset-inline-start: 0;
     inline-size: 100%;
-    max-inline-size: 100vw; /* Prevents horizontal overflow */
+    max-inline-size: 100vw;
     padding: 1.5rem 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 10;
-    background: rgba(0, 0, 0, 0.5); /* Semi-transparent dark */
+    background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(6px);
     box-sizing: border-box;
 }

@@ -11,5 +11,3 @@ const Hero = () => (
 );
 
 export default Hero;
-// This is a simple hero section component for a React website.
-// It includes a title and a brief description, serving as an introduction to the site.
