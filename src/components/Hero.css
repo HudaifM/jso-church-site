@@ -24,13 +24,16 @@
 }
 
 .hero-overlay h1 {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 150px;
     font-weight: 800;
-    margin-block-start: 15rem;
+    margin-block-start: 20rem;
 }
 
 .hero-overlay h2 {
+    margin-inline-end: 420px;
+    font-family: 'roboto', sans-serif;
+    text-align: end;
     margin-block-start: -130px;
     font-size: 75px;
     font-weight: 500;
