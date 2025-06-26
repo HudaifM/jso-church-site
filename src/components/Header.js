@@ -3,6 +3,11 @@ import './Header.css'; // Importing the CSS file for styling
 
 const Header = () => (
   <header className="header">
+    {/* <div className="logo">
+        <Link to="/">
+          <img src="/Logo.png" alt="JSO Logo" />
+        </Link>
+      </div> */}
     <h1>JSO Church</h1>
     <nav>
       <a href="#hero">Home</a>

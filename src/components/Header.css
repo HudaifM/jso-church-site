@@ -1,3 +1,8 @@
+.logo img {
+  block-size: 50px;
+  object-fit: contain;
+}
+
 .header {
     position: absolute;
     inset-block-start: 0;
