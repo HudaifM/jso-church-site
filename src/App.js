@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import About from './components/About';
 import './App.css' // Importing the CSS file for styling;
+import History from './components/History';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
       <Header/>
       <Hero/>
       <About/>
+      <History/>
       <Footer/>
-
+    
     </>
   );
 }
