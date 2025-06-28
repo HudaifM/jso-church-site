@@ -11,7 +11,7 @@ const Header = () => (
     <h1>JSO Church</h1>
     <nav>
       <a href="#hero">Home</a>
-      <a href="#about">About</a>
+      <a href="#about">About Us</a>
       <a href="#history">History</a>
       <a href="#contact">Contact</a>
       <a href="#download-app">Download App</a>
